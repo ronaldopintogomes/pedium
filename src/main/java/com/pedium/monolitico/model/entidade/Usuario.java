@@ -1,4 +1,4 @@
-package com.pedium.monolitico.model.enidade;
+package com.pedium.monolitico.model.entidade;
 
 import lombok.Getter;
 import lombok.NoArgsConstructor;
