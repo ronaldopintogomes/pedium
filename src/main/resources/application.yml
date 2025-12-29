@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: pedium
+
+  thymeleaf:
+    prefix: classpath/templates/
+    suffix: .html
+    mode: HTML
+    enconding: UTF-8
+    cache: false
+    servlet: 
+      content-type: text/html

@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.pedium</groupId>
-	<artifactId>monolitico</artifactId>
+	<artifactId>mono</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>monolitico</name>
+	<name>mono</name>
 	<description>Sistema de pedidos de lanches e refeicoes</description>
 	<url/>
 	<licenses>
@@ -98,5 +98,4 @@
 			</plugin>
 		</plugins>
 	</build>
-
 </project>

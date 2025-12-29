@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pedium - Dashboard</title>
+</head>
+<body>
+    <h2>Bem-vindo, <span th:text="${usuario}"></span></h2>
+    <p>Ultimo acesso: <span th:text="${ultimoAcesso}"></span></p>
+    <a th:href="@{/logout}"></a>
+</body>
+</html>
