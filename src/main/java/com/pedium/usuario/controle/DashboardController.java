@@ -1,4 +1,4 @@
-package com.pedium.mono.usuario.controle;
+package com.pedium.usuario.controle;
 
 import java.security.Principal;
 import java.time.LocalDateTime;

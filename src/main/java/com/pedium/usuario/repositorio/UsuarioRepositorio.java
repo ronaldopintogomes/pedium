@@ -1,4 +1,4 @@
-package com.pedium.mono.usuario.repositorio;
+package com.pedium.usuario.repositorio;
 
 import java.util.Optional;
 

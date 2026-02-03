@@ -1,4 +1,4 @@
-package com.pedium.mono.usuario.controle;
+package com.pedium.usuario.controle;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;

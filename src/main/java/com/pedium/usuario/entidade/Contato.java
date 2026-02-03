@@ -1,4 +1,4 @@
-package com.pedium.mono.usuario.entidade;
+package com.pedium.usuario.entidade;
 
 import lombok.Getter;
 import lombok.NoArgsConstructor;

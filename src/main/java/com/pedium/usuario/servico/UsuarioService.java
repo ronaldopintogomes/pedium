@@ -1,4 +1,4 @@
-package com.pedium.mono.usuario.servico;
+package com.pedium.usuario.servico;
 
 import org.springframework.security.core.userdetails.User;
 import org.springframework.security.core.userdetails.UserDetails;

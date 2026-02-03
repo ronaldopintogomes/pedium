@@ -1,4 +1,4 @@
-package com.pedium.mono.usuario.repositorio;
+package com.pedium.usuario.repositorio;
 
 import java.io.IOException;
 import java.nio.charset.StandardCharsets;
