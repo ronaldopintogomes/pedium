@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.pedium</groupId>
-	<artifactId>mono</artifactId>
+	<artifactId>app</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>mono</name>
+	<name>pedium</name>
 	<description>Sistema de pedidos de lanches e refeicoes</description>
 	<url/>
 	<licenses>
