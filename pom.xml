@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.pedium</groupId>
-	<artifactId>monolitico</artifactId>
+	<artifactId>app</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>monolitico</name>
+	<name>pedium</name>
 	<description>Sistema de pedidos de lanches e refeicoes</description>
 	<url/>
 	<licenses>
@@ -63,6 +63,11 @@
 			<artifactId>spring-security-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-thymeleaf</artifactId>
+		</dependency>
 	</dependencies>
 
 	<build>
@@ -93,5 +98,4 @@
 			</plugin>
 		</plugins>
 	</build>
-
 </project>
